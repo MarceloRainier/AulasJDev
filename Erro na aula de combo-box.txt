@@ -1,0 +1,175 @@
+mar 19, 2021 9:22:26 AM org.apache.tomcat.util.digester.SetPropertiesRule begin
+ADVERTÊNCIA: [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'source' to 'org.eclipse.jst.jee.server:meu-primeiro-projeto' did not find a matching property.
+mar 19, 2021 9:22:26 AM org.apache.tomcat.util.digester.SetPropertiesRule begin
+ADVERTÊNCIA: [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'source' to 'org.eclipse.jst.jee.server:front-end' did not find a matching property.
+mar 19, 2021 9:22:26 AM org.apache.tomcat.util.digester.SetPropertiesRule begin
+ADVERTÊNCIA: [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'source' to 'org.eclipse.jst.jee.server:curso-jsp' did not find a matching property.
+mar 19, 2021 9:22:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAÇÕES: Server version:        Apache Tomcat/9.0.1
+mar 19, 2021 9:22:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAÇÕES: Server built:          Sep 27 2017 17:31:52 UTC
+mar 19, 2021 9:22:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAÇÕES: Server number:         9.0.1.0
+mar 19, 2021 9:22:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAÇÕES: OS Name:               Windows 10
+mar 19, 2021 9:22:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAÇÕES: OS Version:            10.0
+mar 19, 2021 9:22:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAÇÕES: Architecture:          amd64
+mar 19, 2021 9:22:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAÇÕES: Java Home:             C:\Program Files\AdoptOpenJDK\jdk-11.0.9.11-hotspot
+mar 19, 2021 9:22:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAÇÕES: JVM Version:           11.0.9+11
+mar 19, 2021 9:22:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAÇÕES: JVM Vendor:            AdoptOpenJDK
+mar 19, 2021 9:22:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAÇÕES: CATALINA_BASE:         C:\Users\marce\Documents\01_PESSOAL\EDUCAÇÃO\DesenvolvimentoPessoal\Curso-java-web\.metadata\.plugins\org.eclipse.wst.server.core\tmp0
+mar 19, 2021 9:22:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAÇÕES: CATALINA_HOME:         C:\apache-tomcat-9.0.1
+mar 19, 2021 9:22:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAÇÕES: Command line argument: -Dcatalina.base=C:\Users\marce\Documents\01_PESSOAL\EDUCAÇÃO\DesenvolvimentoPessoal\Curso-java-web\.metadata\.plugins\org.eclipse.wst.server.core\tmp0
+mar 19, 2021 9:22:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAÇÕES: Command line argument: -Dcatalina.home=C:\apache-tomcat-9.0.1
+mar 19, 2021 9:22:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAÇÕES: Command line argument: -Dwtp.deploy=C:\Users\marce\Documents\01_PESSOAL\EDUCAÇÃO\DesenvolvimentoPessoal\Curso-java-web\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps
+mar 19, 2021 9:22:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFORMAÇÕES: Command line argument: -Dfile.encoding=UTF-8
+mar 19, 2021 9:22:26 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFORMAÇÕES: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\AdoptOpenJDK\jdk-11.0.9.11-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/AdoptOpenJDK/jdk-11.0.9.11-hotspot/bin/client;C:/Program Files/AdoptOpenJDK/jdk-11.0.9.11-hotspot/bin;C:\Program Files\AdoptOpenJDK\jdk-11.0.9.11-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\marce\AppData\Local\Microsoft\WindowsApps;;C:\Users\marce\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Azure Data Studio\bin;C:\WINDOWS\System32;;.]
+mar 19, 2021 9:22:26 AM org.apache.coyote.AbstractProtocol init
+INFORMAÇÕES: Initializing ProtocolHandler ["http-nio-8080"]
+mar 19, 2021 9:22:27 AM org.apache.tomcat.util.net.NioSelectorPool getSharedSelector
+INFORMAÇÕES: Using a shared selector for servlet write/read
+mar 19, 2021 9:22:27 AM org.apache.coyote.AbstractProtocol init
+INFORMAÇÕES: Initializing ProtocolHandler ["ajp-nio-8009"]
+mar 19, 2021 9:22:27 AM org.apache.tomcat.util.net.NioSelectorPool getSharedSelector
+INFORMAÇÕES: Using a shared selector for servlet write/read
+mar 19, 2021 9:22:27 AM org.apache.catalina.startup.Catalina load
+INFORMAÇÕES: Initialization processed in 2806 ms
+mar 19, 2021 9:22:28 AM org.apache.catalina.core.StandardService startInternal
+INFORMAÇÕES: Starting service [Catalina]
+mar 19, 2021 9:22:28 AM org.apache.catalina.core.StandardEngine startInternal
+INFORMAÇÕES: Starting Servlet Engine: Apache Tomcat/9.0.1
+mar 19, 2021 9:22:29 AM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+ADVERTÊNCIA: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [745] milliseconds.
+mar 19, 2021 9:22:31 AM org.apache.jasper.servlet.TldScanner scanJars
+INFORMAÇÕES: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.postgresql.jdbc.TimestampUtils (file:/C:/Users/marce/Documents/01_PESSOAL/EDUCAÇÃO/DesenvolvimentoPessoal/Curso-java-web/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/curso-jsp/WEB-INF/lib/postgresql-9.4.1212.jar) to field java.util.TimeZone.defaultTimeZone
+WARNING: Please consider reporting this to the maintainers of org.postgresql.jdbc.TimestampUtils
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+mar 19, 2021 9:22:31 AM org.apache.coyote.AbstractProtocol start
+INFORMAÇÕES: Starting ProtocolHandler ["http-nio-8080"]
+mar 19, 2021 9:22:31 AM org.apache.coyote.AbstractProtocol start
+INFORMAÇÕES: Starting ProtocolHandler ["ajp-nio-8009"]
+mar 19, 2021 9:22:31 AM org.apache.catalina.startup.Catalina start
+INFORMAÇÕES: Server startup in 3961 ms
+mar 19, 2021 9:23:48 AM org.apache.catalina.core.ApplicationDispatcher invoke
+GRAVE: Servlet.service() for servlet [jsp] threw exception
+java.lang.NullPointerException
+	at org.apache.jsp.cadastroUsuario_jsp._jspService(cadastroUsuario_jsp.java:307)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:444)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:710)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:459)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at servlet.Usuario.doGet(Usuario.java:60)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at filter.Filter.doFilter(Filter.java:31)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:475)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:651)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:500)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:754)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1376)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+org.apache.jasper.JasperException: An exception occurred processing [/cadastroUsuario.jsp] at line [151]
+
+148: 								<%
+149: 								if (request.getAttribute("user") != null){
+150: 									BeanCursoJsp user = (BeanCursoJsp) request.getAttribute("user");
+151: 									if(user.getPerfil().equalsIgnoreCase("administrador")){
+152: 										out.print(" ");
+153: 										out.print("selected=\"selected\"");
+154: 										out.print(" ");
+
+
+Stacktrace:
+	at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:593)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:482)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:710)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:459)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at servlet.Usuario.doGet(Usuario.java:60)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at filter.Filter.doFilter(Filter.java:31)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:475)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:651)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:500)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:754)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1376)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.NullPointerException
+	at org.apache.jsp.cadastroUsuario_jsp._jspService(cadastroUsuario_jsp.java:307)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:444)
+	... 40 more
